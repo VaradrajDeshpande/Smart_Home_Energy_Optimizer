@@ -1,0 +1,11 @@
+timestamp,kitchen,ac,heater,occupancy,temp,day_night,total_usage,hour,recommendation
+2025-07-31 06:00:00,100,0,300,1,24,Night,400,6,✔️ Usage is normal
+2025-07-31 07:00:00,120,0,200,1,23,Night,320,7,✔️ Usage is normal
+2025-07-31 08:00:00,150,300,0,1,25,Day,450,8,✔️ Usage is normal
+2025-07-31 09:00:00,200,400,0,1,26,Day,600,9,✔️ Usage is normal
+2025-07-31 10:00:00,250,600,0,1,27,Day,850,10,✔️ Usage is normal
+2025-07-31 11:00:00,300,800,0,1,28,Day,1100,11,⚠️ Suggest shifting usage to off-peak hours
+2025-07-31 12:00:00,350,1000,0,1,29,Day,1350,12,⚠️ Suggest shifting usage to off-peak hours
+2025-07-31 13:00:00,400,1200,0,1,30,Day,1600,13,⚠️ Suggest shifting usage to off-peak hours
+2025-07-31 14:00:00,300,800,0,1,28,Day,1100,14,⚠️ Suggest shifting usage to off-peak hours
+2025-07-31 15:00:00,250,600,0,1,27,Day,850,15,✔️ Usage is normal
